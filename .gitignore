@@ -1,0 +1,10 @@
+.idea
+**/node_modules/*
+**/.firebaserc
+*/npm-debug.log
+lerna-debug.log
+*~
+service-account-credentials.json
+.DS_Store
+.runtimeconfig.json
+*.log
